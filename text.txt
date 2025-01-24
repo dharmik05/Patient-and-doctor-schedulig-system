@@ -1,0 +1,18 @@
+P I Emily 12 CAR 0
+D I Smith XYZ 1
+D I Smith GEN 1
+D I Lee PED 2
+D I Nancy CAR 3
+P I Emily 12 CAR 0
+P I Michael 6 PED 1
+P O Emily
+P O Michael
+P I Chris 33 INT 0
+P I Tom 22 GEN 0
+P I Sally 21 GEN 0
+D O Smith
+P I Pat 44 CAR 0
+D O Lee
+P O Chris
+P O Sally
+D O Nancy

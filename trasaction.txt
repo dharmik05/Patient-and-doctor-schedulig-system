@@ -1,0 +1,26 @@
+sorry, no doctor is available right now.
+invalid speciality code.
+doctor Smith checked into room 1.
+doctor Lee checked into room 2.
+doctor Nancy checked into room 3.
+patient Emily assigned to dr. Lee in room 2.
+patient Michael assigned to dr. Lee in room 2.
+patient Emily cannot checkout or not found.
+patient Michael checked out from room 2.
+patient Chris assigned to dr. Smith in room 1.
+patient Tom assigned to dr. Smith in room 1.
+patient Sally assigned to dr. Smith in room 1.
+patient Chris reassigned to dr.Nancy in room 3.
+patient Tom reassigned to dr.Lee in room 2.
+patient Sally reassigned to dr.Nancy in room 3.
+doctor Smith checked out from room 1.
+patient Pat assigned to dr. Nancy in room 3.
+patient Emily reassigned to dr.Nancy in room 3.
+patient Tom reassigned to dr.Nancy in room 3.
+doctor Lee checked out from room 2.
+patient Chris checked out from room 3.
+patient Sally checked out from room 3.
+no available room to reassign patient Pat.
+no available room to reassign patient Emily.
+no available room to reassign patient Tom.
+doctor Nancy checked out from room 3.
